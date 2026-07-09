@@ -4,4 +4,4 @@ TypeScript FizzBuzz.
 
 ## Install
 
-`npm ins
+`npm inst
