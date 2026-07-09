@@ -10,4 +10,4 @@ TypeScript FizzBuzz.
 
 - `npm run build`
 - `npm run start`
-- `npm run build-sta
+- `npm run build-star
