@@ -1,1 +1,1 @@
-{"name":"slop-fizzbuzz","private":true,"type":"commonjs","scripts":{"build":"tsc","start":"node dis
+{"name":"slop-fizzbuzz","private":true,"type":"commonjs","scripts":{"build":"tsc","start":"node dist
