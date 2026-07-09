@@ -1,1 +1,1 @@
-const fb=(n:number)=>A
+const fb=(n:number)=>Ar
