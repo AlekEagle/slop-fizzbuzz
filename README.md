@@ -4,4 +4,4 @@ TypeScript FizzBuzz.
 
 ## Install
 
-`
+`n
