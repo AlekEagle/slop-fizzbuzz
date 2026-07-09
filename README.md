@@ -1,3 +1,3 @@
 # slop-fizzbuzz
 
-Typ
+Type
