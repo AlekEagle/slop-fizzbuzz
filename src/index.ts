@@ -1,1 +1,1 @@
-const fb=(n:number)=>Array.from({length:n},(_,i)=>{const x=i+1;return(x%3?'':'Fizz')+(x%5?'':'Buzz')||`${x}`});console.log(f
+const fb=(n:number)=>Array.from({length:n},(_,i)=>{const x=i+1;return(x%3?'':'Fizz')+(x%5?'':'Buzz')||`${x}`});console.log(fb
