@@ -2,4 +2,4 @@
 
 TypeScript FizzBuzz.
 
-## In
+## Ins
