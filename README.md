@@ -8,4 +8,4 @@ TypeScript FizzBuzz.
 
 ## Scripts
 
-- `npm run b
+- `npm run bu
