@@ -12,4 +12,4 @@ TypeScript FizzBuzz.
 - `npm run start`
 - `npm run build-start`
 
-It prints FizzBuzz output f
+It prints FizzBuzz output fr
