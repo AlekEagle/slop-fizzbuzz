@@ -6,4 +6,4 @@ TypeScript FizzBuzz.
 
 `npm install`
 
-## 
+## S
