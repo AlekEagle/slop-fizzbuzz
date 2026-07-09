@@ -1,3 +1,3 @@
 # slop-fizzbuzz
 
-TypeScript FizzBuzz
+TypeScript FizzBuzz.
