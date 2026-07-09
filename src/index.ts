@@ -1,1 +1,1 @@
-const fb=(n:number)=>Array.fr
+const fb=(n:number)=>Array.fro
