@@ -1,1 +1,1 @@
-const fb=(n:number)=>Array.from({length:n},(_,i)=>{co
+const fb=(n:number)=>Array.from({length:n},(_,i)=>{con
