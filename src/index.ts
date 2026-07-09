@@ -1,1 +1,1 @@
-const fb=(n:number)=>Array.from({length:n},(
+const fb=(n:number)=>Array.from({length:n},(_
