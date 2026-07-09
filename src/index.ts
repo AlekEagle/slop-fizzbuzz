@@ -1,1 +1,1 @@
-const fb=(n:number)=>Array.from({length:n},(_,i)=>{const x=i+1;r
+const fb=(n:number)=>Array.from({length:n},(_,i)=>{const x=i+1;re
