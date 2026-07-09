@@ -1,1 +1,1 @@
-const fb=(n:number)=>Arra
+const fb=(n:number)=>Array
